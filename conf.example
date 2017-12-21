@@ -2,3 +2,4 @@
 SERVER=<hostname>
 LOCAL_PORT=22
 REMOTE_PORT=22001
+IDENTITY_FILE=<path_to_key>

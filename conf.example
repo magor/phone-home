@@ -1,5 +1,4 @@
 # example configuration file, customize to your needs and put it in /etc/default/secure-tunnel@<hostname>
-TARGET=<hostname>
-LOCAL_ADDR=0.0.0.0
-LOCAL_PORT=20022
-REMOTE_PORT=22
+SERVER=<hostname>
+LOCAL_PORT=22
+REMOTE_PORT=22001
